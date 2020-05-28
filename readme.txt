@@ -7,3 +7,5 @@ created new branch named dev is quick & simple
 =======
 created new branch named dev is quick  and simple
 >>>>>>> featurel
+
+add new one
