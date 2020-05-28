@@ -8,4 +8,4 @@ created new branch named dev is quick & simple
 created new branch named dev is quick  and simple
 >>>>>>> featurel
 
-add new one
+add new one fix 101 bug
